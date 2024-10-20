@@ -23,9 +23,8 @@ Before you begin, ensure you have the following prerequisites installed on your 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/project.git
+   git clone https://github.com/IsaacYen/WebstockWebsite.git
    ```
-   Replace `https://github.com/yourusername/project.git` with the actual URL of your project repository.
 
 2. **Navigate to the project directory**:
    ```bash
